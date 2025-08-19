@@ -1,4 +1,4 @@
-# James — Painel do Agente de Voz
+# REX — Painel do Agente de Voz
 
 Interface futurista em React + Vite que exibe um painel de status e integra o widget de conversa por voz da ElevenLabs (Convai). Ideal para demonstrar e operar um agente de voz em tempo real, com métricas visuais e elementos holográficos.
 
